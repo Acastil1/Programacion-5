@@ -65,6 +65,7 @@ namespace AccesoDatos.Clases
                 return mAdmin.GetClienteLista();
             }
         Actualizar_Cli
+            fhgfjhfhjfhjf
         }
 
     }
