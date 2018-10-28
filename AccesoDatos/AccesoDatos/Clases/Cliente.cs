@@ -64,6 +64,7 @@ namespace AccesoDatos.Clases
                 AccesoDatos.Datos.BL.Admin mAdmin = new AccesoDatos.Datos.BL.Admin();
                 return mAdmin.GetClienteLista();
             }
+        Actualizar_Cli
         }
 
     }
